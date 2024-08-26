@@ -1,0 +1,3 @@
+ I have joined office remote on 22 Aug
+ Offline I have joined office today
+ Today I practise some cli commands and explore some git commands
